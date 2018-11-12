@@ -1,0 +1,4 @@
+/* pages/booksList/booksList.js */
+.swiper-container {
+    box-sizing: border-box;
+}
